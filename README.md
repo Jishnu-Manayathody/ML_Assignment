@@ -5,4 +5,4 @@ link: https://github.com/Jishnu-Manayathody/ML_Assignment/blob/main/Python_Udemy
 2. Feature Engineering and Iris Sepal Length prediction 
 link: 
 3. Dimensionality Reduction: LDA, SVD
-link: 
+link: https://github.com/Jishnu-Manayathody/ML_Assignment/blob/main/Dimensionality_Reduction.pdf
